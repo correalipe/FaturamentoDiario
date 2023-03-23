@@ -1,0 +1,17 @@
+C:\Users\SORAIA\source\repos\FaturamentoDiario\FaturamentoDiario\bin\Debug\net6.0\FaturamentoDiario.exe
+C:\Users\SORAIA\source\repos\FaturamentoDiario\FaturamentoDiario\bin\Debug\net6.0\FaturamentoDiario.deps.json
+C:\Users\SORAIA\source\repos\FaturamentoDiario\FaturamentoDiario\bin\Debug\net6.0\FaturamentoDiario.runtimeconfig.json
+C:\Users\SORAIA\source\repos\FaturamentoDiario\FaturamentoDiario\bin\Debug\net6.0\FaturamentoDiario.dll
+C:\Users\SORAIA\source\repos\FaturamentoDiario\FaturamentoDiario\bin\Debug\net6.0\FaturamentoDiario.pdb
+C:\Users\SORAIA\source\repos\FaturamentoDiario\FaturamentoDiario\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\SORAIA\source\repos\FaturamentoDiario\FaturamentoDiario\obj\Debug\net6.0\FaturamentoDiario.csproj.AssemblyReference.cache
+C:\Users\SORAIA\source\repos\FaturamentoDiario\FaturamentoDiario\obj\Debug\net6.0\FaturamentoDiario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SORAIA\source\repos\FaturamentoDiario\FaturamentoDiario\obj\Debug\net6.0\FaturamentoDiario.AssemblyInfoInputs.cache
+C:\Users\SORAIA\source\repos\FaturamentoDiario\FaturamentoDiario\obj\Debug\net6.0\FaturamentoDiario.AssemblyInfo.cs
+C:\Users\SORAIA\source\repos\FaturamentoDiario\FaturamentoDiario\obj\Debug\net6.0\FaturamentoDiario.csproj.CoreCompileInputs.cache
+C:\Users\SORAIA\source\repos\FaturamentoDiario\FaturamentoDiario\obj\Debug\net6.0\FaturamentoDiario.csproj.CopyComplete
+C:\Users\SORAIA\source\repos\FaturamentoDiario\FaturamentoDiario\obj\Debug\net6.0\FaturamentoDiario.dll
+C:\Users\SORAIA\source\repos\FaturamentoDiario\FaturamentoDiario\obj\Debug\net6.0\refint\FaturamentoDiario.dll
+C:\Users\SORAIA\source\repos\FaturamentoDiario\FaturamentoDiario\obj\Debug\net6.0\FaturamentoDiario.pdb
+C:\Users\SORAIA\source\repos\FaturamentoDiario\FaturamentoDiario\obj\Debug\net6.0\FaturamentoDiario.genruntimeconfig.cache
+C:\Users\SORAIA\source\repos\FaturamentoDiario\FaturamentoDiario\obj\Debug\net6.0\ref\FaturamentoDiario.dll

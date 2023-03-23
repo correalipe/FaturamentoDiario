@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BySNLGwixx3jx+i0JND1qNxm2Cz4fzBg3347vn+DONpgJB9BFM26emo7G8cZ7vMckD9svmN7RZeB/r90/k/OiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SORAIA\\source\\repos\\FaturamentoDiario\\FaturamentoDiario\\FaturamentoDiario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SORAIA\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
